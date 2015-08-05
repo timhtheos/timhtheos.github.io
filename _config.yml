@@ -1,10 +1,8 @@
 # Site settings
 title: timhtheos
 email: tmt@timothyae.com 
-description: > 
-  This is the official journal blog site of Timothy Escopete.  His official
-  website is www.timothyae.com.  This blog site is actually informal that 
-  may contains daily journal, notes, informal blog, and even rants.
+description: >
+  This is the official journal blog site of Timothy Escopete.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.tmt.ninja"  
 twitter_username: honored_by_God 
